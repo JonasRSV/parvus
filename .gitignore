@@ -1,0 +1,5 @@
+parvus.egg-info/
+dist/
+build/
+.idea/
+parvus/__pycache__/
